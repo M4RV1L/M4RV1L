@@ -3,6 +3,12 @@
 <h2>👤 About me </h2>
 <table border="0">
 <td width="30%">
-      <img src="https://avatars.githubusercontent.com/u/91207733?v=4" style="max-width: 256px; width: 100%; height: auto;">
+      <img src="2150797574-1-960x960.jpg" style="max-width: 256px; width: 100%; height: auto;">
     </td>
     <td width="70%">
+      📚 MSc Student in Computer Science at University of Bari Aldo Moro <br>
+  </tr>
+</table>
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,debian,eclipse,github,java,kali,linux,py,powershell,pycharm,vscode)](https://skillicons.dev)
