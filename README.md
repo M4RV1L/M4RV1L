@@ -11,4 +11,4 @@
 </table>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,debian,eclipse,github,java,kali,linux,py,powershell,pycharm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,debian,eclipse,github,java,kali,linux,ubuntu,py,powershell,pycharm,vscode)](https://skillicons.dev)
