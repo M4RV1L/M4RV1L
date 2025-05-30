@@ -4,12 +4,12 @@
 <td width="30%">
       <img src="2150797574-1-960x960.jpg" style="max-width: 256px; width: 100%; height: auto;">
     </td>
-    <td width="60%">
+    <td width="65%">
       📚 Computer Science student at University of Bari Aldo Moro <br>
           🧑‍💻Cybersecurity enthusiast <br>
           🚩Novice CTF player <br>
      </td>
-    <td widht="65%"> <a href="https://marcovillano.altervista.org/">
+    <td widht="60%"> <a href="https://marcovillano.altervista.org/">
             <strong> Visit my personal website!</strong>
           <h1>
                 <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230">
