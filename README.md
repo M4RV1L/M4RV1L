@@ -5,7 +5,7 @@
       <img src="2150797574-1-960x960.jpg" style="max-width: 256px; width: 100%; height: auto;">
     </td>
     <td width="50%">
-      📚 Computer Science student at University of Bari Aldo Moro <bd>
+      📚 Computer Science student at University of Bari Aldo Moro <br>
           🧑‍💻Cybersecurity enthusiast <br>
           🚩Novice CTF player <br>
      </td>
