@@ -4,7 +4,7 @@
 <td width="30%">
       <img src="2150797574-1-960x960.jpg" style="max-width: 256px; width: 100%; height: auto;">
     </td>
-    <td width="50%">
+    <td width="60%">
       📚 Computer Science student at University of Bari Aldo Moro <br>
           🧑‍💻Cybersecurity enthusiast <br>
           🚩Novice CTF player <br>
