@@ -9,7 +9,7 @@
           🧑‍💻Cybersecurity enthusiast <br>
           🚩Novice CTF player <br>
      </td>
-    <td widht="60%"> <a href="[https://marcovillano.altervista.org/](https://personal-site-lovat-seven.vercel.app/)">
+    <td widht="60%"> <a href="https://personal-site-lovat-seven.vercel.app/">
             <strong> Visit my personal website!</strong>
           <h1>
                 <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230">
