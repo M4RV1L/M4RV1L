@@ -17,13 +17,12 @@
     </td>
 </table>
 
-<h1></br></h1>
+
 
 ## 💻Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,debian,eclipse,github,java,kali,linux,ubuntu,py,powershell,pycharm,vscode)](https://skillicons.dev)
 <h1></br></h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Marco010404&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center">
       <img src="https://tryhackme-badges.s3.amazonaws.com/M4RV1L.png" alt="Your Image Badge" />
