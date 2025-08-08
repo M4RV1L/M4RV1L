@@ -26,6 +26,7 @@
 
 <h1 align="center">
       <img src="https://tryhackme-badges.s3.amazonaws.com/M4RV1L.png" alt="Your Image Badge" />
+
  
 </br>
       <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
