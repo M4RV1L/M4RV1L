@@ -23,16 +23,12 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,debian,eclipse,github,java,kali,linux,ubuntu,py,powershell,pycharm,vscode)](https://skillicons.dev)
 <h1></br></h1>
 
-
-<h1 align="center">
-      <img src="https://tryhackme-badges.s3.amazonaws.com/M4RV1L.png?v=2" alt="Your Image Badge" />
-
+[![TryHackMe Badge](https://raw.githubusercontent.com/M4RV1L/M4RV1L/main/assets/thm-badge.png)](https://tryhackme.com/p/M4RV1L)
  
 </br>
-      <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
-</h1>
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Marco010404.Marco010404)
 
 
-[![TryHackMe Badge](https://raw.githubusercontent.com/M4RV1L/M4RV1L/main/assets/thm-badge.png)](https://tryhackme.com/p/M4RV1L)
