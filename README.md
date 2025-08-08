@@ -25,7 +25,7 @@
 
 
 <h1 align="center">
-      <img src="https://tryhackme-badges.s3.amazonaws.com/M4RV1L.png" alt="Your Image Badge" />
+      <img src="https://tryhackme-badges.s3.amazonaws.com/M4RV1L.png?v=2" alt="Your Image Badge" />
 
  
 </br>
@@ -34,5 +34,4 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Marco010404.Marco010404)
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/M4RV1L.png?v=2)](https://tryhackme.com/p/M4RV1L)
 
