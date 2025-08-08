@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Fetch TryHackMe Badge
-      uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
+      uses: M4RV1L/tryhackme-updaten-workflow@v1.0
       with:
         image_path: './assets/tryhackme_badge.png'
         username: 'M4RV1L'
