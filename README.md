@@ -35,4 +35,4 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Marco010404.Marco010404)
 
 
-[![TryHackMe Badge](https://raw.githubusercontent.com/M4RV1L/M4RV1L/main/assets/thm-badge.png)](https://tryhackme.com/p/M4RV1L)
+[![TryHackMe Badge](https://raw.githubusercontent.com/M4RV1L/M4RV1L/assets/thm-badge.png)](https://tryhackme.com/p/M4RV1L)
