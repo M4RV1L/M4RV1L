@@ -51,6 +51,9 @@
     <td align="center">
         <img src="https://tryhackme.com/img/badges/introtosecurityengineering.svg" width="100" />
     </td>
+    <td align="center">
+          <img src="https://tryhackme.com/img/badges/streak7.svg" width="100" />
+    </td>
   </tr>
 </table>
 
