@@ -62,6 +62,9 @@
         <td align="center">
               <img src="https://tryhackme.com/img/badges/hashcracker.svg" width="100" />
         </td>
+         <td align="center">
+              <img src="https://tryhackme.com/img/badges/loganalysis.svg" width="100" />
+        </td>
   </tr>
 </table>
 
