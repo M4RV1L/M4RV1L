@@ -58,6 +58,11 @@
           <img src="https://tryhackme.com/img/badges/securityawareness.svg" width="100" />
     </td>
   </tr>
+  <tr>
+        <td align="center">
+              <img src="https://tryhackme.com/img/badges/hashcracker.svg" width="100" />
+        </td>
+  </tr>
 </table>
 
 <br></br>
