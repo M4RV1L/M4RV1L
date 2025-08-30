@@ -29,48 +29,6 @@
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 
-### My TryHackMe Badge
-
-<table>
-  <tr>
-    <td align="center">
-        <img src="https://tryhackme.com/img/badges/webbed.svg" width="100" />
-    </td>
-    <td align="center">
-        <img src="https://tryhackme.com/img/badges/howthewebworks.svg" width="100" />
-    </td>
-    <td align="center">
-        <img src="https://tryhackme.com/img/badges/linux.svg" width="100" />
-    </td>
-    <td align="center">
-        <img src="https://tryhackme.com/img/badges/streak3.svg" width="100" />
-    </td>
-    <td align="center">
-        <img src="https://tryhackme.com/img/badges/careerready.svg" width="100" />
-    </td>
-    <td align="center">
-        <img src="https://tryhackme.com/img/badges/introtosecurityengineering.svg" width="100" />
-    </td>
-    <td align="center">
-          <img src="https://tryhackme.com/img/badges/streak7.svg" width="100" />
-    </td>
-    <td align="center">
-          <img src="https://tryhackme.com/img/badges/securityawareness.svg" width="100" />
-    </td>
-  </tr>
-  <tr>
-        <td align="center">
-              <img src="https://tryhackme.com/img/badges/hashcracker.svg" width="100" />
-        </td>
-         <td align="center">
-              <img src="https://tryhackme.com/img/badges/loganalysis.svg" width="100" />
-        </td>
-        <td align="center">
-              <img src="https://tryhackme.com/img/badges/owasptop10.svg" width="100" />
-        </td>
-  </tr>
-</table>
-
 <br></br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Marco010404.Marco010404)
